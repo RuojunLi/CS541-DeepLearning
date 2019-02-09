@@ -6,6 +6,11 @@ Course Homework and Project
 - Prove simple mathmatical rule of Matrix Operation
 
 ## Homework2
-- Derivative of cost function
+- Derivation of cost function
 - Regularization implementation
 - Prove Hidden Markov Model
+
+## Homework3
+- Prove Newton Methods 
+- Derivation of softmax regression
+- Softmax regression Implementation and tunning on MNIST
