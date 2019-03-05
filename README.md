@@ -14,3 +14,7 @@ Course Homework and Project
 - Prove Newton Methods 
 - Derivation of softmax regression
 - Softmax regression Implementation and tunning on MNIST
+
+## Homework4
+- Softmax regression Neuron Implementation
+- The code implements the layers back-propagation recursively.
